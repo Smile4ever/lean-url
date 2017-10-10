@@ -1,3 +1,6 @@
+# This is being developed under the name Neat URL
+Please use the continuation Neat URL: https://github.com/Smile4ever/firefoxaddons/tree/master/Neat%20URL-webext
+
 # Lean URL
 
 Firefox addon(actually a webextension) to remove evil URL parameters such as Google Analytics' utm parameters.
